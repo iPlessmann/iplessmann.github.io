@@ -1,7 +1,7 @@
 site: plessmann.nl
 
-url: https://www.plessmann.nl
-baseurl: /project
+url: https://iplessmann.github.io/
+baseurl: 
 
 collections:
   pages:
